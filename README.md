@@ -5,6 +5,10 @@
 <br/>
 
 ![Static Badge](https://img.shields.io/badge/py-python-yellow?logo=python)
+![Static Badge](https://img.shields.io/badge/git-bash-brightgreen?logo=git)
+![Static Badge](https://img.shields.io/badge/git_hub-purple?logo=github&labelColor=purple)
+![Static Badge](https://img.shields.io/badge/pycharm-yellow?logo=pycharm&logoColor=black&labelColor=yellow)
+
 <p align="left">
 -🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Improving my skills.**
 </p>
