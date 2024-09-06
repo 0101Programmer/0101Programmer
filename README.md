@@ -8,6 +8,7 @@
 ![Static Badge](https://img.shields.io/badge/git-bash-brightgreen?logo=git)
 ![Static Badge](https://img.shields.io/badge/git_hub-purple?logo=github&labelColor=purple)
 ![Static Badge](https://img.shields.io/badge/pycharm-yellow?logo=pycharm&logoColor=black&labelColor=yellow)
+<img alt="Static Badge" src="https://img.shields.io/badge/sq-light-navy?logo=sqlite&labelColor=blue">
 
 <p align="left">
 -🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Improving my skills.**
