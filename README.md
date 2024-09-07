@@ -11,6 +11,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/sq-light-navy?logo=sqlite&labelColor=blue">
 <br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/DB-eaver-white?logo=dbeaver&labelColor=654321">
+<img alt="Static Badge" src="https://img.shields.io/badge/Colaboratory-white?logo=googlecolab">
 
 
 <p align="left">
