@@ -12,6 +12,7 @@
 <br/>
 <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver">
 <img alt="Static Badge" src="https://img.shields.io/badge/Colaboratory-white?logo=googlecolab">
+<img alt="Static Badge" src="https://img.shields.io/badge/python-django?logo=django&labelColor=%23092E20&color=%233776AB">
 
 
 <p align="left">
