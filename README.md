@@ -13,6 +13,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver">
 <img alt="Static Badge" src="https://img.shields.io/badge/Colaboratory-white?logo=googlecolab">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-django?logo=django&labelColor=%23092E20&color=%233776AB">
+<img alt="Static Badge" src="https://img.shields.io/badge/Postgre-SQL-sql?logo=postgresql&logoColor=%234169E1&labelColor=white&color=%234169E1">
 
 
 <p align="left">
