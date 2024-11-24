@@ -10,6 +10,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?logo=github">
 <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-django?logo=django&labelColor=%23092E20&color=%233776AB">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?logo=flask">
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-%23009688?logo=fastapi&labelColor=white">
+
 
 
 <p align="left">
