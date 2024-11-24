@@ -5,7 +5,7 @@
 <br/>
 
 ![Static Badge](https://img.shields.io/badge/py-python-yellow?logo=python)
-![Static Badge](https://img.shields.io/badge/pycharm-yellow?logo=pycharm&logoColor=black&labelColor=yellow)
+<img alt="Static Badge" src="https://img.shields.io/badge/PyCharm-yellow?logo=pycharm&logoColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/sq-light-navy?logo=sqlite&labelColor=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?logo=github">
 <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver">
