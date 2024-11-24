@@ -5,15 +5,11 @@
 <br/>
 
 ![Static Badge](https://img.shields.io/badge/py-python-yellow?logo=python)
-![Static Badge](https://img.shields.io/badge/git-bash-brightgreen?logo=git)
-![Static Badge](https://img.shields.io/badge/git_hub-purple?logo=github&labelColor=purple)
 ![Static Badge](https://img.shields.io/badge/pycharm-yellow?logo=pycharm&logoColor=black&labelColor=yellow)
 <img alt="Static Badge" src="https://img.shields.io/badge/sq-light-navy?logo=sqlite&labelColor=blue">
-<br/>
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?logo=github">
 <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-382923?logo=dbeaver">
-<img alt="Static Badge" src="https://img.shields.io/badge/Colaboratory-white?logo=googlecolab">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-django?logo=django&labelColor=%23092E20&color=%233776AB">
-<img alt="Static Badge" src="https://img.shields.io/badge/Postgre-SQL-sql?logo=postgresql&logoColor=%234169E1&labelColor=white&color=%234169E1">
 
 
 <p align="left">
