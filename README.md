@@ -26,7 +26,7 @@
 
 -💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/0101Programmer/0101Programmer/issues/1) !
 </p>
--🎮 I like to play **video games.**
+-💪 I like doing **Sports**
 </p>
 -⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **It’s all 0’s and 1’s.**
 </p>
