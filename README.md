@@ -1,5 +1,20 @@
-## Hi there 👋
-<img align="right" src="https://github.com/0101Programmer/0101Programmer/blob/main/loops-in-python.gif" alt="The unlmited" width="400">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vladimir+Baranov's+Github+Profile..)](https://git.io/typing-svg)
+<br> 
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/user-attachments/assets/6f686d0d-7fa7-4785-85c9-85c14ffdea36" width="500" height="360" />
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vlad</h1>
+<h3 align="center">Junior Python-developer</h3>
+<br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0101Programmer)
+
+## 🙋‍♂️ About Me
+🚀 Vasudev Jaiswal  
+*B.Tech in Computer Science and Engineering (Data Science)*  
+JSS Academy of Technical Education - Noida  
+
+
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:** 
 <br/>
 <br/>
@@ -13,7 +28,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/python-django?logo=django&labelColor=%23092E20&color=%233776AB">
 <img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?logo=flask">
 <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-%23009688?logo=fastapi&labelColor=white">
-
 
 
 <p align="left">
@@ -30,3 +44,4 @@
 </p>
 -⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **It’s all 0’s and 1’s.**
 </p>
+
