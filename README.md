@@ -33,3 +33,4 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?logo=flask">
 <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-%23009688?logo=fastapi&labelColor=white">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0101Programmer&show_icons=true&theme=radical)
