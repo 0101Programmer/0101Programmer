@@ -16,6 +16,7 @@
 - :zap: In my free time, I do some PET-projects
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **bar.vladimir.k@gmail.com**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/stars/0101Programmer/lists/pet-projects)**
 
 🛠️ **Skills:**
 - **Languages:** Python, HTML, CSS
