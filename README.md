@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vladimir+Baranov's+Github+Profile..)](https://git.io/typing-svg)
 <br> 
 <p align="center">
-<img align="center" alt="GIF" src="https://github.com/user-attachments/assets/6f686d0d-7fa7-4785-85c9-85c14ffdea36" width="500" height="360" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/rvjRyn3dLSj8dqhKuv/giphy.gif?cid=ecf05e47ho2o533nlyt4dezb0ajt5ed1n4g9haovycxj6zko&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="400" />
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vlad</h1>
 <h3 align="center">Junior Python-developer</h3>
