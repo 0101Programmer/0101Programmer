@@ -23,7 +23,7 @@
 - **Languages:** Python, HTML, CSS
 - **Frameworks:** Django, FastAPI, Flask
 - **Libraries:** NumPy, Pandas, Matplotlib
-- **Tools:** Postman, GitHub, SQLAlchemy, PostgreSQL
+- **Tools:** GitHub, SQLAlchemy, PostgreSQL
 - **Other:** SQL, Git, PyCharm
 
 ![Static Badge](https://img.shields.io/badge/py-python-yellow?logo=python)
