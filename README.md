@@ -22,7 +22,7 @@
 🛠️ **Skills:**
 - **Languages:** Python, HTML, CSS
 - **Frameworks:** Django, FastAPI, Flask
-- **Libraries:** NumPy, Pandas, Matplotlib
+- **Libraries:** NumPy, Pandas, Matplotlib, Aiogram
 - **Tools:** GitHub, SQLAlchemy, PostgreSQL
 - **Other:** SQL, Git, PyCharm
 
