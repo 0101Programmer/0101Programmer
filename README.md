@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **bar.vladimir.k@gmail.com**
 - 👨‍💻 All of my projects are available at **[here](https://gist.github.com/0101Programmer)**
-- 🪢 Know more about me **[My Resume](https://hh.ru/resume/f60e7d32ff0e6375cd0039ed1f6b65316f6736)**
+- 🪢 Know more about me **[My Resume](https://hh.ru/resume/94c75bc0ff0ecad5920039ed1f39364e586e62)**
 
 🛠️ **Skills:**
 - **Languages:** Python, HTML, CSS
